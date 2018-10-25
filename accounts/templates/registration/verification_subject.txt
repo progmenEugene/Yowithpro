@@ -1,0 +1,3 @@
+{% load i18n %}{% autoescape off %}
+{% blocktrans %}Подтвердите свой акаунт и создайте пароль на {{ site_name }}{% endblocktrans %}
+{% endautoescape %}
